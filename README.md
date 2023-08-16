@@ -1,4 +1,5 @@
 # WxRecordRead
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.coderpwh">
 
 
 ---
