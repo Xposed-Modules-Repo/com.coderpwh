@@ -4,7 +4,7 @@
 
 ---
 
-## 微信聊天记录wxid读取 Xp模块
+## 微信聊天记录wxid读取,消息修改 Xp模块
 
 使用 [YukiHookAPI](https://github.com/fankes/YukiHookAPI)开发
 * 代码开源地址[WxRecord](https://github.com/pwh-pwh/wxrecordread)
@@ -12,7 +12,7 @@
 * 目前支持 仅测试8.0.23,8.0.25 版本 v1.2版本仅支持微信8.0.40版本
 * 请使用[WxRecord](https://github.com/pwh-pwh/wxrecordread/releases/tag/v1.1) 以保证支持8.0.23,8.0.25 版本
 * 最新版[WxRecord](https://github.com/pwh-pwh/wxrecordread/releases/tag/v1.2) 仅支持微信8.0.40版本
-
+* 请使用[WxRecord](https://github.com/pwh-pwh/wxrecordread/releases/tag/v2.0) 支持8.0.23,8.0.25 版本(聊天页面消息修改功能)
 * 暂时提高版本号范围以支持一些不容易改变的类
 
 ### 主要功能如下
@@ -20,12 +20,17 @@
 ---
 
 * 获取聊天记录发送消息者wxid
+* 修改聊天页面消息(仅从TextView做文字替换处理,暂不支持8.0.40版本)
 
+## 用法
 
+* 点击折叠转发的聊天记录，即可弹出wxid信息
+* 长按聊天界面+按钮即可弹出修改功能界面
 
 ## 截图
 
 ![image](https://pic.rmb.bdstatic.com/bjh/82ea7a148cf2c578346f0999929840bc.jpeg)
+![image](img/img.png)
 
 
 ---
