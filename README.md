@@ -30,7 +30,7 @@
 ## 截图
 
 ![image](https://pic.rmb.bdstatic.com/bjh/82ea7a148cf2c578346f0999929840bc.jpeg)
-![image](img/img.png)
+![img.png](https://x.imgs.ovh/x/2023/08/21/64e314efb9650.png)
 
 
 ---
