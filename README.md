@@ -11,8 +11,8 @@
 
 * 目前支持 仅测试8.0.23,8.0.25 版本 v1.2版本仅支持微信8.0.40版本
 * 请使用[WxRecord](https://github.com/pwh-pwh/wxrecordread/releases/tag/v1.1) 以保证支持8.0.23,8.0.25 版本
-* 最新版[WxRecord](https://github.com/pwh-pwh/wxrecordread/releases/tag/v1.2) 仅支持微信8.0.40版本
 * 请使用[WxRecord](https://github.com/pwh-pwh/wxrecordread/releases/tag/v2.0) 支持8.0.23,8.0.25 版本(聊天页面消息修改功能)
+* v2.1发布支持8.40.0修改消息[WxRecord](https://github.com/pwh-pwh/wxrecordread/releases/tag/v2.1)
 * 暂时提高版本号范围以支持一些不容易改变的类
 
 ### 主要功能如下
@@ -30,7 +30,7 @@
 ## 截图
 
 ![image](https://pic.rmb.bdstatic.com/bjh/82ea7a148cf2c578346f0999929840bc.jpeg)
-![img.png](https://x.imgs.ovh/x/2023/08/21/64e314efb9650.png)
+![img.png](https://x.imgs.ovh/x/2023/08/27/64ead51897b63.jpg)
 
 
 ---
