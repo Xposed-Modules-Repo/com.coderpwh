@@ -52,6 +52,6 @@
 * 模块仅供学习，请勿用于非法用途，如有其他疑问，请提issus
 =======
 
-## 注意
+## 👏✨
 
-* 模块仅供学习，请勿用于非法用途，如有其他疑问，请提issus
+* 觉得有用欢迎✨WxRecord](https://github.com/pwh-pwh/wxrecordread)
