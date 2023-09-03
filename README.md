@@ -54,4 +54,4 @@
 
 ## 👏✨
 
-* 觉得有用欢迎✨WxRecord](https://github.com/pwh-pwh/wxrecordread)
+* 觉得有用欢迎✨[WxRecord](https://github.com/pwh-pwh/wxrecordread)
