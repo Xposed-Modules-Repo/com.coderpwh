@@ -4,7 +4,7 @@
 
 ---
 
-## 微信聊天记录wxid读取,消息修改 Xp模块
+## 微信聊天记录wxid读取,消息修改
 
 使用 [YukiHookAPI](https://github.com/fankes/YukiHookAPI)开发
 * 代码开源地址[WxRecord](https://github.com/pwh-pwh/wxrecordread)
