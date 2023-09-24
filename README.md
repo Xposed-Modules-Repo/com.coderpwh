@@ -22,6 +22,7 @@
 
 * 获取聊天记录发送消息者wxid
 * 修改聊天页面消息(仅从TextView做文字替换处理,暂不支持8.0.40版本)
+* 查看红包总额
 * 注意：消息修改生效时间：比如在和a聊天界面点击修改，修改完后，要退到微信主界面点到其他人如b的聊天界面，然后再回到a就生效了
 
 ## 用法
@@ -33,6 +34,7 @@
 
 ![image](https://pic.rmb.bdstatic.com/bjh/82ea7a148cf2c578346f0999929840bc.jpeg)
 ![img.png](https://x.imgs.ovh/x/2023/08/27/64ead51897b63.jpg)
+![pP79OIO.md.jpg](https://z1.ax1x.com/2023/09/24/pP79OIO.md.jpg)]
 
 
 ---
