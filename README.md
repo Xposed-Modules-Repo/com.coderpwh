@@ -4,7 +4,7 @@
 
 ---
 
-## 微信聊天记录wxid读取,消息修改 Xp模块
+## 微信聊天记录wxid读取,消息修改
 
 使用 [YukiHookAPI](https://github.com/fankes/YukiHookAPI)开发
 * 代码开源地址[WxRecord](https://github.com/pwh-pwh/wxrecordread)
@@ -13,6 +13,7 @@
 * 请使用[WxRecord](https://github.com/pwh-pwh/wxrecordread/releases/tag/v1.1) 以保证支持8.0.23,8.0.25 版本
 * 请使用[WxRecord](https://github.com/pwh-pwh/wxrecordread/releases/tag/v2.0) 支持8.0.23,8.0.25 版本(聊天页面消息修改功能)
 * v2.1发布支持8.40.0修改消息[WxRecord](https://github.com/pwh-pwh/wxrecordread/releases/tag/v2.1)
+* v2.2版本修改：修改信息入口改为点击聊天页面用户名，避免与其他模块冲突[WxRecord](https://github.com/pwh-pwh/wxrecordread/releases/tag/v2.2)
 * 暂时提高版本号范围以支持一些不容易改变的类
 
 ### 主要功能如下
@@ -22,6 +23,8 @@
 * 获取聊天记录发送消息者wxid
 * 查看红包总额
 * 修改聊天页面消息(仅从TextView做文字替换处理,暂不支持8.0.40版本)
+* 查看红包总额
+* 注意：消息修改生效时间：比如在和a聊天界面点击修改，修改完后，要退到微信主界面点到其他人如b的聊天界面，然后再回到a就生效了
 
 ## 用法
 
@@ -53,6 +56,6 @@
 * 模块仅供学习，请勿用于非法用途，如有其他疑问，请提issus
 =======
 
-## 注意
+## 👏✨
 
-* 模块仅供学习，请勿用于非法用途，如有其他疑问，请提issus
+* 觉得有用欢迎✨[WxRecord](https://github.com/pwh-pwh/wxrecordread)
