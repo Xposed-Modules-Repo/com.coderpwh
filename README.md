@@ -35,8 +35,8 @@
 
 ![image](https://pic.rmb.bdstatic.com/bjh/82ea7a148cf2c578346f0999929840bc.jpeg)
 ![pPO3BJf.jpg](https://z1.ax1x.com/2023/10/03/pPO3BJf.jpg)
-![pP79OIO.md.jpg](https://z1.ax1x.com/2023/09/24/pP79OIO.md.jpg)]
-![pPO3UeA.jpg](https://z1.ax1x.com/2023/10/03/pPO3UeA.jpg)]
+![pP79OIO.md.jpg](https://z1.ax1x.com/2023/09/24/pP79OIO.md.jpg)
+![pPO3UeA.jpg](https://z1.ax1x.com/2023/10/03/pPO3UeA.jpg)
 
 
 ---
